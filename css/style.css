@@ -7,50 +7,55 @@ body {
     width: 150px;
     height: 150px;
     background-color: firebrick;
-    margin-top: 20em;
+    margin-top: 25em;
 }
 
 .sq2 {
     width: 150px;
     height: 150px;
     background-color: firebrick;
-    margin-top: 10em;
-    margin-left: 10em;
+    margin-top: -20em;
+    margin-left: 7em;
 }
 
 .sq3 {
     width: 150px;
     height: 150px;
     background-color: firebrick;
-    margin-top: 20em;
+    margin-top: -20em;
+    margin-left: 4em;
 }
 
 .sq4 {
     width: 150px;
     height: 150px;
     background-color: firebrick;
-    margin-top: 20em;
+    margin-top: 26em;
+    margin-left: 9em;
 }
 
 .sq5 {
     width: 150px;
     height: 150px;
     background-color: firebrick;
-    margin-top: 20em;
+    margin-top: -20em;
+    margin-left: 15em;
 }
 
 .sq6 {
     width: 150px;
     height: 150px;
     background-color: firebrick;
-    margin-top: 20em;
+    margin-top: -20em;
+    margin-left: 17em;
 }
 
 .sq7 {
     width: 150px;
     height: 150px;
     background-color: firebrick;
-    margin-top: 20em;
+    margin-top: -21em;
+    margin-left: 22em;
 }
 
 .sq8 {
@@ -58,18 +63,135 @@ body {
     height: 150px;
     background-color: firebrick;
     margin-top: 20em;
+    margin-left: 25em;
 }
 
 .sq9 {
     width: 150px;
     height: 150px;
     background-color: firebrick;
-    margin-top: 20em;
+    margin-top: -44em;
+    margin-left: 32em;
 }
 
 .sq10 {
     width: 150px;
     height: 150px;
     background-color: firebrick;
-    margin-top: 20em;
+    margin-top: 15em;
+    margin-left: 27em;
 }
+
+
+.sq11 {
+    width: 150px;
+    height: 150px;
+    background-color: firebrick;
+    margin-top: -24em;
+    margin-left: 35em;
+}
+
+.sq12 {
+    width: 150px;
+    height: 150px;
+    background-color: firebrick;
+    margin-top: 21em;
+    margin-left: 35em;
+}
+
+.sq13 {
+    width: 150px;
+    height: 150px;
+    background-color: firebrick;
+    margin-top: -28em;
+    margin-left: 38em;
+}
+
+.sq14 {
+    width: 150px;
+    height: 150px;
+    background-color: firebrick;
+    margin-top: 5em;
+    margin-left: 45em;
+}
+
+.sq15 {
+    width: 150px;
+    height: 150px;
+    background-color: firebrick;
+    margin-top: -20em;
+    margin-left: 50em;
+}
+
+.sq16 {
+    width: 150px;
+    height: 150px;
+    background-color: firebrick;
+    margin-top: -27em;
+    margin-left: 47em;
+}
+
+.sq17 {
+    width: 150px;
+    height: 150px;
+    background-color: firebrick;
+    margin-top: -3em;
+    margin-left: 57em;
+}
+
+.sq18 {
+    width: 150px;
+    height: 150px;
+    background-color: firebrick;
+    margin-top: 15em;
+    margin-left: 55em;
+}
+
+.sq19 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(53, 177, 146);
+    margin-top: -19em;
+    margin-left: 60em;
+}
+
+.sq20 {
+    width: 150px;
+    height: 150px;
+    background-color: firebrick;
+    margin-top: -36em;
+    margin-left: 63em;
+}
+
+.sq21 {
+    width: 150px;
+    height: 150px;
+    background-color: firebrick;
+    margin-top: 0.5em;
+    margin-left: 67em;
+}
+
+.sq22 {
+    width: 150px;
+    height: 150px;
+    background-color: firebrick;
+    margin-top: 4em;
+    margin-left: 70em;
+}
+
+.sq23 {
+    width: 150px;
+    height: 150px;
+    background-color: firebrick;
+    margin-top: -19em;
+    margin-left: 79.5em;
+}
+
+.sq24 {
+    width: 150px;
+    height: 150px;
+    background-color: firebrick;
+    margin-top: 13em;
+    margin-left: 77em;
+}
+
